@@ -1,0 +1,12 @@
+{
+  "name": "belajar-ts",
+  "version": "1.0.0",
+  "description": "belajar ts dasar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luqmab",
+  "license": "ISC",
+  "type": "module"
+}
